@@ -1,5 +1,5 @@
 
-public class Q4 {
+public class Devide_Array_To_Groups_Algorithm {
 	
 	public static void main(String[] args) {
 		int[] array1 = {10, 2, 1, 13, 1, 6, 7, 8, 3, 9, 3, 12, 7};
